@@ -1,4 +1,0 @@
-# Anthropopo
-
-Lorem ipsum
-Truc
